@@ -1,4 +1,4 @@
-#　NOGO ALPHA 1.0
+#NOGO ALPHA 1.0
 no regret;
 no choose in PVC;
 random;
